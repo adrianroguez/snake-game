@@ -1,0 +1,15 @@
+/home/adrianssd/Escritorio/snake/src/main/java/es/adrianroguez/session/Session.java
+/home/adrianssd/Escritorio/snake/src/main/java/es/adrianroguez/controller/RegisterController.java
+/home/adrianssd/Escritorio/snake/src/main/java/es/adrianroguez/model/abstracts/Conexion.java
+/home/adrianssd/Escritorio/snake/src/main/java/es/adrianroguez/controller/RememberPasswordController.java
+/home/adrianssd/Escritorio/snake/src/main/java/es/adrianroguez/controller/UserController.java
+/home/adrianssd/Escritorio/snake/src/main/java/es/adrianroguez/model/GameModel.java
+/home/adrianssd/Escritorio/snake/src/main/java/es/adrianroguez/model/service/UserServiceModel.java
+/home/adrianssd/Escritorio/snake/src/main/java/es/adrianroguez/controller/abstracts/AbstractController.java
+/home/adrianssd/Escritorio/snake/src/main/java/es/adrianroguez/module-info.java
+/home/adrianssd/Escritorio/snake/src/main/java/es/adrianroguez/Main.java
+/home/adrianssd/Escritorio/snake/src/main/java/es/adrianroguez/controller/GameController.java
+/home/adrianssd/Escritorio/snake/src/main/java/es/adrianroguez/config/ConfigManager.java
+/home/adrianssd/Escritorio/snake/src/main/java/es/adrianroguez/model/UserModel.java
+/home/adrianssd/Escritorio/snake/src/main/java/es/adrianroguez/controller/LoginController.java
+/home/adrianssd/Escritorio/snake/src/main/java/es/adrianroguez/controller/EditUserController.java

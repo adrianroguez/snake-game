@@ -1,0 +1,52 @@
+.root {
+  -fx-background-image: url("../images/background.jpg");
+  -fx-background-size: cover;
+  -fx-font-size: 15px;
+  -fx-font-weight: bold;
+}
+
+.text-field,
+.password-field {
+  -fx-background-color: #ccffcc;
+  -fx-background-radius: 10px;
+  -fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.8), 10, 0.5, 2, 2);
+  -fx-padding: 6px;
+}
+
+.combo-box {
+  -fx-background-color: #f0f0f0;
+  -fx-border-color: #cccccc;
+  -fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.8), 10, 0.5, 2, 2);
+}
+
+.button {
+  -fx-background-color: #ffd700;
+  -fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.5), 10, 0.5, 2, 2);
+  -fx-transition: all 0.2s ease;
+  -fx-padding: 12px;
+}
+
+.button:hover {
+  -fx-background-color: #ffc107;
+  -fx-cursor: hand;
+  -fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.8), 10, 0.5, 2, 2);
+  -fx-scale-x: 1.05;
+  -fx-scale-y: 1.05;
+}
+
+#text {
+  -fx-font-size: 25px;
+  -fx-fill: white;
+  -fx-font-weight: bold;
+}
+
+#title {
+  -fx-font-size: 50px;
+  -fx-fill: white;
+  -fx-font-weight: bold;
+  -fx-text-alignment: center;
+}
+
+#messageText {
+  -fx-fill: red;
+}
